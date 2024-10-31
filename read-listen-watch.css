@@ -1,0 +1,6 @@
+#readlistenwatch_ul li { padding-bottom : 0.5em; }
+#readlistenwatch_ul .media-item {
+	margin-top : 0.5em;
+	margin-left : -0.5em;
+}
+#readlistenwatch_ul .media-item li { margin-right : 28px; }
